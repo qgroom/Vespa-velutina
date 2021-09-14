@@ -1,6 +1,6 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Cristina Preda and Quentin Groom. 2014. Species associations manually extracted from literature.",
+  "citation": "Cristina Preda and Quentin Groom. 2021. Species associations manually extracted from literature.",
   "licence": "CC0",
   "version": "1.0",
   "deprecated": false
